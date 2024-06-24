@@ -75,8 +75,6 @@ cd apps/web
 yarn dev
 ```
 
-License This project is licensed under the MIT License.
-
 # Technologies:
 
 The Autospace monorepo leverages a range of modern technologies and libraries to provide a comprehensive and efficient parking management solution. Below is a breakdown of the primary technologies used in the project:
